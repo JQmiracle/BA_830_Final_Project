@@ -14,5 +14,5 @@ To observe this, we created an experiment with 169 randomly generated participan
 ## Conclusion
 We did not find there is a significant difference across control and tree treatment arms, so we assume that the color and location of "Sign in" button can not effect the users' experience. We think there are two reasons. Firstly, we have a small sample size. According to the power test, we need at least 1571 samples to make this experiment have power, but we only have 169 samples. Secondly, the outcome has a high standard deviation, because we did not find any useful covariate in our dataset.
 
-## Further Step
+## Further Steps
 For further exploration, we have some thoughts. Firstly, we should collect more data to have enough power, and we could collect more information on factors that may have impacts on the engagement time. Then, we could create new treatment arms based on factors mentioned in papers about users' web browsing habits. Lastly, as the factorial analysis has the same result, we can actually create fewer arms. Thus, the number of samples in each group would increase.
