@@ -1,5 +1,6 @@
 # BA_830_Final_Project
-The Effects of “Sign in” Button Location and Color on Online Shopping Platforms
+
+## The Effects of “Sign in” Button Location and Color on Online Shopping Platforms
 
 Studies have found that effects of button design characteristics (i.e., button size, button spacing, visual feedback and button shape) on users' touchscreen performance, mental workload and preference (Da, Juan, and Shuang 2018).
 
